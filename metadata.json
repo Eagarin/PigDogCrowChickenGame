@@ -1,0 +1,6 @@
+{
+  "name": "หมูหมากาไก่",
+  "description": "เกมทดสอบการมองภาพและพูดตามจังหวะ 8 ภาพใน 4 วินาที ด้วยกล้องเว็บแคมและ MediaPipe Audio Transcriber บนเบราว์เซอร์",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
